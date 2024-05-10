@@ -1,0 +1,36 @@
+---
+title: "The Translational Digestive Disease Research Center (TDDR) at the University of Michigan"
+format: html
+editor: visual
+---
+
+## Welcome
+
+The Translational DIgestive Disease Research (TDDR) Center at the University of Michigan is a DIgestive Disease Research Core Center funded by the National Institutes of Health via a P30 grant from the National Institute Of Diabetes and Digestive and Kidney (NIDDK) diseases. This Center administers 3 cores and 2 programs to enhance the productivity of researchers in gastrointestinal and hepatic diseases.
+
+## The Cores
+
+The TDDR Center includes three scientific cores:
+
+-   The **cData Core** for clinical data. This core offers services which include:
+
+-   The **Bioinformatics Core.**\
+    This core offers services which include:
+
+-   The **Model Systems Core**.\
+    This core offers services which include:
+
+The Center is administered by an
+
+-   **Administrative Core**\
+    which is responsible for supervising all cores and programs, communicating to members with a biweekly e-newsletter, managing finances, tracking grants and papers that result from core services usage, and annual reports to the NIH.
+
+## The Programs
+
+The TDDR Center includes two programs:
+
+-   The **Enrichment Program**\
+    This program is responsible for several activities that enrich the scientific environment for digestive disease research at the University of Michigan, including the fortnightly in-person gatherings on Wednesday afternoons, Bring Back a Technique (BBAT) mini-sabbaticals, Collaboration Seed Grants (CSG), and our annual Research Retreat.
+
+-   The **Pilot & Feasibility Program**\
+    This program is responsible for advertising, soliticing, and evaluating applications for pilot and feasibility grants of up to \$50,000 to fund research leading to preliminary data toward a larger NIH-funded grant.
