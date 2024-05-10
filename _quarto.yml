@@ -1,22 +1,26 @@
 project:
   type: website
+  output-dir: docs
 
 website:
-  title: "TDDR"
+  title: "TDDR Center"
   navbar:
-    background: primary
-    search: true
     left:
-      - text: "Home"
+      - text: Home
         href: main_page.qmd
-      - text: "Events"
-        href: talks.qmd
-      - text: "News"
-        href: about.qmd
+      - text: Events
+        href: events.qmd
+      - text: News
+        href: news.qmd
 
 format:
   html:
-    theme: spacelab
-    css: styles.css
+    theme:
+      - spacelab
+      - custom.scss
     toc: true
 
+editor: visual
+
+execute:
+  freeze: auto
