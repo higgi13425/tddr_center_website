@@ -8,10 +8,22 @@ website:
     left:
       - text: Home
         href: main_page.qmd
+      - text: Personnel
+        href: personnel.qmd
+      - text: Scientific Cores
+        href: cores.qmd
       - text: Events
         href: events.qmd
       - text: News
         href: news.qmd
+      - text: Pilots
+        href: pilots.qmd
+      - text: Publications
+        href: publications.qmd
+      - text: Grants
+        href: grants.qmd
+      - text: Gifts
+        href: gifts.qmd
 
 format:
   html:
