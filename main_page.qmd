@@ -6,7 +6,7 @@ editor: visual
 
 ## Welcome
 
-The Translational DIgestive Disease Research (TDDR) Center at the University of Michigan is a DIgestive Disease Research Core Center funded by the National Institutes of Health via a P30 grant from the National Institute Of Diabetes and Digestive and Kidney (NIDDK) diseases. This Center administers 3 cores and 2 programs to enhance the productivity of researchers in gastrointestinal and hepatic diseases. Quarto theming ideas found here: <https://quarto.org/docs/dashboards/theming.html>
+The Translational DIgestive Disease Research (TDDR) Center at the University of Michigan is a DIgestive Disease Research Core Center funded by the National Institutes of Health via a P30 grant from the National Institute Of Diabetes and Digestive and Kidney (NIDDK) diseases. This Center administers 3 cores and 2 programs to enhance the productivity of researchers in gastrointestinal and hepatic diseases. Quarto theming found here: <https://quarto.org/docs/dashboards/theming.html>
 
 ## The Cores
 
