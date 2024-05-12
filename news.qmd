@@ -1,4 +1,5 @@
 ---
 title: "News"
+format: html
 editor: visual
 ---

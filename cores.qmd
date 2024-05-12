@@ -1,3 +1,5 @@
 ---
 title: "Cores"
+format: html
+editor: visual
 ---

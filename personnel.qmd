@@ -1,3 +1,5 @@
 ---
 title: "Personnel"
+format: html
+editor: visual
 ---

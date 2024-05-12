@@ -1,9 +1,20 @@
 ---
 title: "Gifts"
+format: html
+editor: visual
 ---
 
-Gifts to the Translational Digestive Disease Center can help in three distinct ways:
+Gifts to the Translational Digestive Disease Research Center can help advance digestive disease research in three distinct ways:
 
 1.  [Co-sponsoring a funded project.]{.underline} Our 40 faculty members have over 100 grants funded by foundations and the NIH through national competitions. However, many funding agencies have to cut proposed funding by 10-20% for financial reasons. Co-sponsoring a funded project at 20% can make a research project that has already won a national competition for funding more likely to succeed.
 2.  [Co-funding pilot projects.]{.underline} These small grants of \$50,000 are used to obtain important preliminary data to compete for larger national grants. Funding a pilot project often leads to larger future funding.
 3.  [Endowing the Translational Digestive Disease Research Center.]{.underline} An endowment is the most stable form of long-term funding for each of the research cores and the programs of the TDDR Center. You can provide core funds that will fund digestive disease research in perpetuity.
+
+To find out more about gifts to the Translational Digestive Disease Research Center, contact:
+
+![](images/LoriHirshman.png)
+
+Lori Hirshman\
+Director of Development, Departments, Centers and Institutes\
+(734) 763-6080\
+[hirshmal\@med.umich.edu](mailto:hirshmal@med.umich.edu)
