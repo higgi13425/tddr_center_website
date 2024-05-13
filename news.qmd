@@ -3,3 +3,5 @@ title: "News"
 format: html
 editor: visual
 ---
+
+This is a repository of newsletters of the TDDR Center. These are listed in reverse chronological order, with the most recent newsletter first.
