@@ -3,3 +3,23 @@ title: "Events"
 format: html
 editor: visual
 ---
+
+## Seminar Days
+
+Our regular seminar days occur fortnightly, on every other Wednesday afternoon, with a rotating schedule of events.
+
+Upcoming seminar days and schedules are listed below in chronological order. All seminar days are in-person, are not recorded, and all members are expected to attend.
+
+## Research Retreat
+
+Our annual research retreat is held each fall on a Friday, with a poster session to share our research and spark collaborations.
+
+Save the date below.
+
+## Collaborative Seed Grants
+
+Each year we evaluate applications for Collaborative Seed Grants (CSGs). Each member of the collaboration must put up some of their own (startup or discretionary) research dollars toward the project, for a total of \$25K from the researchers, and apply for co-funding from the Center. The Center will provide a matching \$25K in research funding to each of two collaborations each year. The goal of the CSGs is to launch new collaborations by providing dollars to obtain preliminary data for future, larger grants.
+
+## Bring Back a Technique Grants
+
+Each year we evaluate applications for Bring Back a Technique Grants (BBATs). A faculty or staff member applies for a grant from the Center to travel to another institution to learn a new technique to bring back to our center, and to teach to others. The Center will provide up to \$5K in travel funding to each of two BBAT proposals each year. The goal of the BBATs is to constantly reinvigorate our center with new techniques by providing dollars to travel and learn new approaches.
