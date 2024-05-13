@@ -3,3 +3,11 @@ title: "Pilot & Feasbility Program"
 format: html
 editor: visual
 ---
+
+### Current Grants
+
+This is a listing of the current pilot and feasibility grants funded by the Translational Digestive Disease Research Center.
+
+### Past Grants and Funding Outcomes
+
+This is a listing of the past pilot and feasibility grants funded by the Translational Digestive Disease Research Center, and their outcomes in terms of publications and follow-on grant funding.

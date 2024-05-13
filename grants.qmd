@@ -3,3 +3,5 @@ title: "Grants"
 format: html
 editor: visual
 ---
+
+This is a listing of all active grants in the past calendar year led by one or more of our 40 Center members.
