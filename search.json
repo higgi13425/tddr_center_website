@@ -35,6 +35,13 @@
     "text": "Administrative Staff\n\nContact Us"
   },
   {
+    "objectID": "grants.html",
+    "href": "grants.html",
+    "title": "Grants",
+    "section": "",
+    "text": "This is a listing of all active grants in the past calendar year led by one or more of our 40 Center members."
+  },
+  {
     "objectID": "gifts.html",
     "href": "gifts.html",
     "title": "Gifts",
@@ -75,6 +82,13 @@
     "title": "Events",
     "section": "Bring Back a Technique Grants",
     "text": "Bring Back a Technique Grants\nEach year we evaluate applications for Bring Back a Technique Grants (BBATs). A faculty or staff member applies for a grant from the Center to travel to another institution to learn a new technique to bring back to our center, and to teach to others. The Center will provide up to $5K in travel funding to each of two BBAT proposals each year. The goal of the BBATs is to constantly reinvigorate our center with new techniques by providing dollars to travel and learn new approaches."
+  },
+  {
+    "objectID": "pilots.html",
+    "href": "pilots.html",
+    "title": "Pilot & Feasbility Program",
+    "section": "",
+    "text": "Current Grants\nThis is a listing of the current pilot and feasibility grants funded by the Translational Digestive Disease Research Center.\n\n\nPast Grants and Funding Outcomes\nThis is a listing of the past pilot and feasibility grants funded by the Translational Digestive Disease Research Center, and their outcomes in terms of publications and follow-on grant funding."
   },
   {
     "objectID": "publications.html",
