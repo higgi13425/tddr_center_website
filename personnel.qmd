@@ -6,6 +6,28 @@ editor: visual
 
 ## Center Leadership
 
+The Director and Co-Director of the University of Michigan Translational Digestive Disease Research Center are Dr. Peter Higgins and Dr. John Wiley. They have worked together since 2002, when Dr. Higgins performed his first clinical trial in inflammatory bowel disease in the University of Michigan General Clinical Research Center, which was led by Dr. Wiley.
+
+::: columns
+::: {.column width="45%"}
+![Peter Higgins, MD, PhD, MSc](images/peterHiggins.jpeg)
+
+Director
+:::
+
+::: {.column width="10%"}
+<!--space holder between columns-->
+:::
+
+
+::: {.column width="45%"}
+![John Wiley, MD](images/johnWiley.jpeg)
+
+
+Co-Director
+:::
+:::
+
 ## Center Members
 
 ### Full Members
